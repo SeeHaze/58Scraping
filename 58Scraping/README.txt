@@ -1,11 +1,7 @@
-语言：python 2.7
+璇█锛歱ython 2.7
 
-数据库：MySQL
+鏁版嵁搴擄細MySQL
 
-开发工具：sublime text或pycharm
+寮�鍙戝伐鍏凤細sublime text鎴杙ycharm
 
-第三方库：requests  lxml  selenium  cssselect pymysql
-
-在writeDate方法中配置数据库连接语柄（第223行）
-
-数据库表结构：scraper_recruitinfo.sql
+绗笁鏂瑰簱锛歳equests  lxml  selenium  cssselect pymysql
